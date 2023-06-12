@@ -4,6 +4,8 @@ import imageio
 
 # constants
 
+# Added a comment
+
 G = 6.67e-11
 
 m1 = 1e11
